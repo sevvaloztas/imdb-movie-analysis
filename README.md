@@ -4,9 +4,9 @@ This project is a simple data analysis exercise using the **IMDb Top 1000 Movies
 
 ## Dataset
 
-- Source: [Kaggle - IMDb Top 1000 Movies]([https://www.kaggle.com/datasets/iamsouravbanerjee/imdb-top-1000-movies](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows?resource=download))
+- Source: [Kaggle - IMDb Top 1000 Movies and TV Shows](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+- Author: Harshit Shankhdhar
 - Format: CSV
-- Key columns: `Series_Title`, `Released_Year`, `IMDB_Rating`, `Genre`, `Director`, `Poster_Link`
 
 ## Key Analyses
 
